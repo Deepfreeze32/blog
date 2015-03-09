@@ -1,2 +1,2 @@
 # blog
-My personal blog, made with Jekyll.  
+My personal blog, made with Jekyll.
