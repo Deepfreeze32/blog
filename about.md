@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: This is the about page.
 ---
 
 This is my blog. I write rants and musings on programming, philosophy, science, and occasionally politics. 
