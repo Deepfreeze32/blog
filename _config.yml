@@ -5,11 +5,19 @@ description: >
   What should you do when you have a Kernel Panic? Reboot!
   Or settle for reading this awesome blog on a device that
   you aren't screwing up the hardware for. 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://incaseofkernelpanic.com" # the base hostname & protocol for your site
+baseurl: "" 
+url: "http://incaseofkernelpanic.com" 
 github_username:  Deepfreeze32
-about: About me
 copyright: © 2015 Travis Cramer
 
 # Build settings
 markdown: kramdown
+paginate: 5
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+tag_feed_layour: tag_feed
+tag_feed_dir: tag
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
