@@ -14,10 +14,5 @@ copyright: © 2015 Travis Cramer
 markdown: kramdown
 paginate: 5
 
-tag_page_layout: tag_page
-tag_page_dir: tag
-
-tag_feed_layour: tag_feed
-tag_feed_dir: tag
-
+# gems: [jekyll-tagging]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
